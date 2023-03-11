@@ -1,6 +1,6 @@
 <h1 align="center" style="font-size: 48px;">James Kelly</h1>
 
-<h3 align="center" style="font-style: italic;">I didn't come this far just to come this far.</h3>
+<h3 align="center"><em>I didn't come this far just to come this far.</em></h3>
 
 <h3 align="justified">
 &emsp;&emsp;Hello World! My name is James Kelly and I am a Full Stack Web Developer who is ready to take the industry by storm! I am thrilled to be a part of this exciting field and I am always on the lookout for new opportunities to showcase my skills.
