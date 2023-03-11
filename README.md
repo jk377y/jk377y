@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<a href="https://jk377y.github.io/Personal-portfolio/#" target="_blank"><img align="center" src="https://i.postimg.cc/RV1KwvJP/MERN-logo.jpg" alt="james kelly" height="150" width="150" style="border-radius:50%;" /></a>
+<a href="https://jk377y.github.io/Personal-portfolio/#" target="_blank"><img src="https://i.postimg.cc/RV1KwvJP/MERN-logo.jpg" alt="james kelly" height="150" width="150" style="border-radius:50%;" /></a>
 
 </div>
 
