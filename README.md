@@ -11,7 +11,7 @@
 <br>
 <div align="center">
 
-<img width="125" src="https://komarev.com/ghpvc/?username=jk377y&color=brightgreen&style=plastic">
+<img width="150" src="https://komarev.com/ghpvc/?username=jk377y&color=brightgreen&style=plastic">
 
 </div>
 <br>
