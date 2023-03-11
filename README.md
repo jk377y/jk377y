@@ -9,16 +9,17 @@
 &emsp;&emsp;With my energy, enthusiasm, and drive, I am confident that I will make a valuable addition to any team. I am ready to roll up my sleeves and get to work on exciting projects that push the boundaries of what is possible in web development. Let's make something amazing together!</h3>
 
 
-<br>
+<br><br>
 <div align="center">
-
 <img width="150" src="https://komarev.com/ghpvc/?username=jk377y&color=brightgreen&style=plastic">
-
 </div>
-<br>
-
-
-<h2 align="center">Connect with me:</h2>
+<br><br>
+<h2 align="center">Check out my portfolio:</h2><br>
+<div align="center">
+<a href="https://jk377y.github.io/Personal-portfolio/#" target="blank"><img align="center" src="https://i.postimg.cc/RV1KwvJP/MERN-logo.jpg" alt="james kelly" height="100" width="100" /></a>
+</div>
+<br><br>
+<h2 align="center">Connect with me:</h2><br>
 
 <div align="center" style="font-size: 24px;">
 
