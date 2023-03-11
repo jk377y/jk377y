@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<a href="https://jk377y.github.io/Personal-portfolio/#" target="_blank"><img align="center" src="https://i.postimg.cc/RV1KwvJP/MERN-logo.jpg" alt="james kelly" height="100" width="100" /></a>
+<a href="https://jk377y.github.io/Personal-portfolio/#" target="_blank" rel="noopener noreferrer"><img align="center" src="https://i.postimg.cc/RV1KwvJP/MERN-logo.jpg" alt="james kelly" height="100" width="100" /></a>
 
 </div>
 
@@ -34,7 +34,7 @@
 
 <div align="center" style="font-size: 24px;">
 
-<a href="https://www.linkedin.com/in/james-kelly-b93a94150/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-linkedin-in-logo-used-for-professional-networking-logo-color-tal-revivo.png" alt="james kelly" height="48" width="48" /></a>&emsp;&emsp;<a href="mailto:jk377y@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/64/null/apple-mail.png" alt="jk377y" height="64" width="64" /></a>&emsp;&emsp;<a href="https://www.leetcode.com/jk377y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jk377y" height="48" width="48" /></a>
+<a href="https://www.linkedin.com/in/james-kelly-b93a94150/" target="_blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-linkedin-in-logo-used-for-professional-networking-logo-color-tal-revivo.png" alt="james kelly" height="48" width="48" /></a>&emsp;&emsp;<a href="mailto:jk377y@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/fluency/64/null/apple-mail.png" alt="jk377y" height="64" width="64" /></a>&emsp;&emsp;<a href="https://www.leetcode.com/jk377y" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jk377y" height="48" width="48" /></a>
 
 </div>
 <br>
