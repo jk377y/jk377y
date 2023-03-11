@@ -11,14 +11,18 @@
 
 <br><br>
 <div align="center">
+
 <img width="150" src="https://komarev.com/ghpvc/?username=jk377y&color=brightgreen&style=plastic">
 </div>
 <br><br>
+
 <h2 align="center">Check out my portfolio:</h2><br>
 <div align="center">
+
 <a href="https://jk377y.github.io/Personal-portfolio/#" target="blank"><img align="center" src="https://i.postimg.cc/RV1KwvJP/MERN-logo.jpg" alt="james kelly" height="100" width="100" /></a>
 </div>
 <br><br>
+
 <h2 align="center">Connect with me:</h2><br>
 
 <div align="center" style="font-size: 24px;">
