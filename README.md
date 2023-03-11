@@ -1,4 +1,5 @@
-<h1 align="center" style="font-size: 48px;font-style: italic;">James Kelly</h1>
+<h1 align="center" style="font-size: 48px;">James Kelly</h1>
+
 <h3 align="center" style="font-style: italic;">I didn't come this far just to come this far.</h3>
 
 <h3 align="justified">
