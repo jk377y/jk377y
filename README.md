@@ -28,7 +28,7 @@
 <br>
 <h3 align="center">
 
-I’m currently working on a **Restraunt Point of Sale App**
+I’m currently working on a **Restaurant Point of Sale App**
 <br>
 <br>
 I’m currently learning **MongoDB, Express, React, Node.js**
