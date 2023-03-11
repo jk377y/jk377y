@@ -3,9 +3,7 @@
 <br>
 <h2 align="justified">&emsp;Hello World! My name is James Kelly and I am a Full Stack Web Developer who is ready to take the industry by storm! I am thrilled to be a part of this exciting field and I am always on the lookout for new opportunities to showcase my skills.
 
-&emsp;As a passionate and creative developer, I am dedicated to creating websites that are both visually stunning and highly functional. I have a deep understanding of web development technologies and I am constantly learning and growing to stay on top of the latest trends.
-
-&emsp;I am a natural problem-solver and I am always up for a challenge. I thrive in collaborative environments and I am eager to work with other professionals to create innovative and dynamic web experiences.
+<br>
 
 &emsp;With my energy, enthusiasm, and drive, I am confident that I will make a valuable addition to any team. I am ready to roll up my sleeves and get to work on exciting projects that push the boundaries of what is possible in web development. Let's make something amazing together!</h2>
 <br>
