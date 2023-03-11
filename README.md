@@ -17,10 +17,13 @@
 <br><br>
 
 <h2 align="center">Check out my portfolio:</h2><br>
+
 <div align="center">
 
 <a href="https://jk377y.github.io/Personal-portfolio/#" target="blank"><img align="center" src="https://i.postimg.cc/RV1KwvJP/MERN-logo.jpg" alt="james kelly" height="100" width="100" /></a>
+
 </div>
+
 <br><br>
 
 <h2 align="center">Connect with me:</h2><br>
