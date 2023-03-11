@@ -1,5 +1,5 @@
-<h1 align="center" style="font-size: 48px">Hi 👋, I'm James Kelly</h1>
-<h3 align="center" style="font-style:italic">I didn't come this far just to come this far.</h3>
+<h1 align="center" style="font-size: 48px;font-style: italic;">James Kelly</h1>
+<h3 align="center" style="font-style: italic;">I didn't come this far just to come this far.</h3>
 
 <h3 align="justified">
 &emsp;&emsp;Hello World! My name is James Kelly and I am a Full Stack Web Developer who is ready to take the industry by storm! I am thrilled to be a part of this exciting field and I am always on the lookout for new opportunities to showcase my skills.
@@ -21,7 +21,9 @@
 
 <div align="center" style="">
 
-<a href="https://www.linkedin.com/in/james-kelly-b93a94150/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-linkedin-in-logo-used-for-professional-networking-logo-color-tal-revivo.png" alt="james kelly" height="48" width="48" /></a>&emsp;&emsp;<a><span style="font-size: 24px;">jk377y@gmail.com</span></a>&emsp;&emsp;<a href="https://www.leetcode.com/jk377y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jk377y" height="48" width="48" /></a>
+<!-- <a href="https://www.linkedin.com/in/james-kelly-b93a94150/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-linkedin-in-logo-used-for-professional-networking-logo-color-tal-revivo.png" alt="james kelly" height="48" width="48" /></a>&emsp;&emsp;<a>jk377y@gmail.com</a>&emsp;&emsp;<a href="https://www.leetcode.com/jk377y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jk377y" height="48" width="48" /></a> -->
+<a href="https://www.linkedin.com/in/james-kelly-b93a94150/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-linkedin-in-logo-used-for-professional-networking-logo-color-tal-revivo.png" alt="james kelly" height="48" width="48" /></a>&emsp;&emsp;<span style="font-size: 24px;">jk377y@gmail.com</span>&emsp;&emsp;<a href="https://www.leetcode.com/jk377y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jk377y" height="48" width="48" /></a>
+
 </div>
 <br>
 <h3 align="center">
