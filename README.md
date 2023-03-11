@@ -19,16 +19,13 @@
 
 <h2 align="center">Connect with me:</h2>
 
-<h2 align="center">
+<div align="center" width="500" height="200">
 
-
-</h2>
-
-<div align="center" width="400" height="200">
-
-<a href="https://www.linkedin.com/in/james-kelly-b93a94150/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-linkedin-in-logo-used-for-professional-networking-logo-color-tal-revivo.png" alt="james kelly" height="36" width="36" /></a>&emsp;&emsp;
+<a href="https://www.linkedin.com/in/james-kelly-b93a94150/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-linkedin-in-logo-used-for-professional-networking-logo-color-tal-revivo.png" alt="james kelly" height="36" width="36" /></a>
+&emsp;&emsp;
 <a align="center">jk377y@gmail.com</a>
-&emsp;&emsp;<a href="https://www.leetcode.com/jk377y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jk377y" height="36" width="36" /></a>
+&emsp;&emsp;
+<a href="https://www.leetcode.com/jk377y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jk377y" height="36" width="36" /></a>
 </div>
 <br>
 <h3 align="center">
