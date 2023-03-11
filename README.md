@@ -1,6 +1,6 @@
 <h1 align="center" style="font-size: 48px">Hi 👋, I'm James Kelly</h1>
 <h3 align="center" style="font-style:italic">I didn't come this far just to come this far.</h3>
-<br>
+
 <h3 align="justified">
 &emsp;&emsp;Hello World! My name is James Kelly and I am a Full Stack Web Developer who is ready to take the industry by storm! I am thrilled to be a part of this exciting field and I am always on the lookout for new opportunities to showcase my skills.
 <br>
@@ -13,7 +13,7 @@ I’m currently working on a **MERN Stack E-commerce App**
 <br>
 I’m currently learning **MongoDB, Express, React, Node.js**
 </h3>
-<br><br><br>
+<br>
 <div align="center">
 
 <img width="100" src="https://komarev.com/ghpvc/?username=jk377y&color=brightgreen&style=plastic">
@@ -27,7 +27,6 @@ I’m currently learning **MongoDB, Express, React, Node.js**
 <h2 align="center">
 
 <a align="center">jk377y@gmail.com</a>
-
 </h2>
 
 <div align="center">
