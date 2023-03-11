@@ -1,29 +1,29 @@
 <h1 align="center" style="font-size: 48px">Hi 👋, I'm James Kelly</h1>
-<h1 align="center" style="font-style:italic">I didn't come this far just to come this far.</h1>
+<h3 align="center" style="font-style:italic">I didn't come this far just to come this far.</h3>
 <br>
-<h2 align="justified">&emsp;Hello World! My name is James Kelly and I am a Full Stack Web Developer who is ready to take the industry by storm! I am thrilled to be a part of this exciting field and I am always on the lookout for new opportunities to showcase my skills.
+<h3 align="justified">&emsp;Hello World! My name is James Kelly and I am a Full Stack Web Developer who is ready to take the industry by storm! I am thrilled to be a part of this exciting field and I am always on the lookout for new opportunities to showcase my skills.
 
 <br>
 
-&emsp;With my energy, enthusiasm, and drive, I am confident that I will make a valuable addition to any team. I am ready to roll up my sleeves and get to work on exciting projects that push the boundaries of what is possible in web development. Let's make something amazing together!</h2>
+&emsp;With my energy, enthusiasm, and drive, I am confident that I will make a valuable addition to any team. I am ready to roll up my sleeves and get to work on exciting projects that push the boundaries of what is possible in web development. Let's make something amazing together!</h3>
 <br>
 
-<h2 align="center">
+<h3 align="center">
 
 I’m currently working on a **MERN Stack E-commerce App**
 <br>
 <br>
 I’m currently learning **MongoDB, Express, React, Node.js**
-</h2>
+</h3>
 <br><br><br>
 <div align="center">
 
-<img width="200" src="https://komarev.com/ghpvc/?username=jk377y&color=brightgreen&style=plastic">
+<img width="100" src="https://komarev.com/ghpvc/?username=jk377y&color=brightgreen&style=plastic">
 
 </div>
 <br>
 <br>
-<h1 align="center">Connect with me:</h1>
+<h2 align="center">Connect with me:</h2>
 <br>
 <h2 align="center">
 <a align="center">jk377y@gmail.com</a>
