@@ -29,7 +29,7 @@ I’m currently learning **MongoDB, Express, React, Node.js**
 <a align="center">jk377y@gmail.com</a>
 </h2>
 
-<div align="center" width="200">
+<div align="center" width="400" height="200">
 
 <a href="https://linkedin.com/in/james kelly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james kelly" height="36" width="36" /></a>&emsp;&emsp;
 <a href="https://www.leetcode.com/jk377y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jk377y" height="36" width="36" /></a>
