@@ -1,6 +1,6 @@
 <h1 align="center" style="font-size: 48px;">James Kelly</h1>
 
-<h3 align="center"><span style="font-size:24px"><em>I didn't come this far just to come this far.</em></span></h3>
+<p align="center"><span style="font-size:24px"><em>I didn't come this far just to come this far.</em></span></p>
 
 
 
