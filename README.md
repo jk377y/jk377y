@@ -20,13 +20,7 @@
 </div>
 <br><br>
 
-<h2 align="center">Check out my portfolio:</h2><br>
-
-<div align="center">
-
-<a href="https://jk377y.github.io/Personal-portfolio/#" target="_blank"><img src="https://i.postimg.cc/RV1KwvJP/MERN-logo.jpg" alt="james kelly" height="150" width="150" style="border-radius:50%;" /></a>
-
-</div>
+<h2 align="center">Check out my portfolio <a href="https://jk377y.github.io/Personal-portfolio/" target="_blank">here</a></h2><br>
 
 <br>
 
