@@ -28,7 +28,7 @@
 
 <div align="center" style="font-size: 24px;">
 
-<a href="https://www.linkedin.com/in/james-kelly-b93a94150/" target="_blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/null/external-linkedin-in-logo-used-for-professional-networking-logo-color-tal-revivo.png" alt="james kelly" height="48" width="48" /></a>&emsp;&emsp;<a href="mailto:jk377y@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/fluency/64/null/apple-mail.png" alt="jk377y" height="64" width="64" /></a>&emsp;&emsp;<a href="https://www.leetcode.com/jk377y" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jk377y" height="48" width="48" /></a>
+<a href="https://www.linkedin.com/in/james-kelly-b93a94150/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="james kelly" height="48" width="48" /></a>&emsp;&emsp;<a href="mailto:jk377y@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/fluency/64/null/apple-mail.png" alt="jk377y" height="64" width="64" /></a>&emsp;&emsp;<a href="https://www.leetcode.com/jk377y" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jk377y" height="48" width="48" /></a>
 
 </div>
 <br>
@@ -41,7 +41,44 @@ I’m currently learning **MongoDB, Express, React, Node.js**
 </h3>
 <br>
 <h1 align="center">Languages and Tools:</h1>
-<p align="center" style="background:rgba(255, 255, 255, 0.5);padding:10px;width:800px;"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="React" width="64" height="64"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" title="MongoDB" width="64" height="64"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" title="NodeJS" width="64" height="64"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" title="Tailwind CSS" width="64" height="64"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" title="MySQL" width="64" height="64"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" title="Heroku" width="64" height="64"/> </a> <br> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="CSS3" width="64" height="64"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML5" width="64" height="64"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="Javascript" width="64" height="64"/> </a> <a href="https://jwt.io/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/64/null/java-web-token.png" alt="JWT" title="JSON Web Token" width="64" height="64"/> </a> <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/96/null/graphql.png" alt="GraphQL" title="GraphQL" width="64" height="64"/> </a></p>
+<p align="center" style="background:rgba(255, 255, 255, 0.5);padding:10px;width:800px;"> 
+
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
+<img src="https://skillicons.dev/icons?i=vite" alt="vite" title="Vite" width="64" height="64"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+<img src="https://skillicons.dev/icons?i=react" alt="react" title="React" width="64" height="64"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+<img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" title="MongoDB" width="64" height="64"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+<img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" title="NodeJS" width="64" height="64"/> </a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+<img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" title="Tailwind CSS" width="64" height="64"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+<img src="https://skillicons.dev/icons?i=mysql" alt="mysql" title="MySQL" width="64" height="64"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
+<img src="https://skillicons.dev/icons?i=heroku" alt="heroku" title="Heroku" width="64" height="64"/> </a> 
+<img src="https://skillicons.dev/icons?i=mysql" alt="mysql" title="MySQL" width="64" height="64"/> </a> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
+<img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" title="Bootstrap" width="64" height="64"/> </a> 
+
+<br> 
+
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+<img src="https://skillicons.dev/icons?i=css" alt="css3" title="CSS3" width="64" height="64"/> </a>  
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<img src="https://skillicons.dev/icons?i=html" alt="html5" title="HTML5" width="64" height="64"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<img src="https://skillicons.dev/icons?i=javascript" alt="javascript" title="Javascript" width="64" height="64"/> </a> 
+<a href="https://jwt.io/" target="_blank" rel="noreferrer"> 
+<img src="https://img.icons8.com/color/64/null/java-web-token.png" alt="JWT" title="JSON Web Token" width="64" height="64"/> </a> 
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
+<img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" title="GraphQL" width="64" height="64"/> </a>
+<a href="https://www.apollographql.com/" target="_blank" rel="noreferrer"> 
+<img src="https://skillicons.dev/icons?i=apollo" alt="Apollo" title="Apollo" width="64" height="64"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+<img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" title="Firebase" width="64" height="64"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+<img src="https://skillicons.dev/icons?i=vscode" alt="vscode" title="VSCode" width="64" height="64"/> </a>
+<a href="https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control" target="_blank" rel="noreferrer"> 
+<img src="https://skillicons.dev/icons?i=git" alt="Git Version Control" title="Git Version Control" width="64" height="64"/> </a></p>
 <br>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jk377y&show_icons=true&locale=en&layout=compact" alt="jk377y" /></p>
