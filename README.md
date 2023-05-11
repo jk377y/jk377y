@@ -59,15 +59,15 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" title="MongoDB" width="64" height="64"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-<img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" title="NodeJS" width="64" height="64"/> </a> 
+<img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" title="NodeJS" width="64" height="64"/> </a>
+<a href="https://handlebarsjs.com/" target="_blank" rel="noreferrer"> 
+<img src="https://img.icons8.com/officel/80/000000/handlebar-mustache.png" alt="handlebars" title="Handlebars" width="64" height="64"/> </a>  
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=express" alt="express" title="ExpressJS" width="64" height="64"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" title="Tailwind CSS" width="64" height="64"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" title="MySQL" width="64" height="64"/> </a> 
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> 
-<img src="https://skillicons.dev/icons?i=heroku" alt="heroku" title="Heroku" width="64" height="64"/> </a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" title="Bootstrap" width="64" height="64"/> </a> 
 </p>
@@ -83,12 +83,12 @@
 <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" title="Javascript" width="64" height="64"/> </a> 
 <a href="https://jwt.io/" target="_blank" rel="noreferrer"> 
 <img src="https://img.icons8.com/color/64/null/java-web-token.png" alt="JWT" title="JSON Web Token" width="64" height="64"/> </a> 
-<a href="https://handlebarsjs.com/" target="_blank" rel="noreferrer"> 
-<img src="https://img.icons8.com/officel/80/000000/handlebar-mustache.png" alt="handlebars" title="Handlebars" width="64" height="64"/> </a> 
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" title="GraphQL" width="64" height="64"/> </a>
 <a href="https://www.apollographql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=apollo" alt="Apollo" title="Apollo" width="64" height="64"/> </a>
+<a href="https://heroku.com" target="_blank" rel="noreferrer"> 
+<img src="https://skillicons.dev/icons?i=heroku" alt="heroku" title="Heroku" width="64" height="64"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" title="Firebase" width="64" height="64"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
