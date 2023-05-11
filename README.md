@@ -34,7 +34,7 @@
 
 **Most Recent Project**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jk377y&repo=happy-horizons)](https://github.com/jk377y/happy-horizons)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jk377y&repo=happy-horizons&theme=transparent)](https://github.com/jk377y/happy-horizons)
 
 <p align=center>
 <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" title="MongoDB" width="64" height="64"/>
