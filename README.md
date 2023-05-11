@@ -4,16 +4,15 @@
 
 <!-- <p align="center"><em>I didn't come this far just to come this far.</em></p> -->
 
-<div align="center" width=600>
-<h3>
+<h3 align="center">
 &emsp;&emsp;Hello World! My name is James Kelly and I am a Full Stack Web Developer who is ready to take the industry by storm! I am thrilled to be a part of this exciting field and I am always on the lookout for new opportunities to showcase my skills.
 </h3>
-</div>
+
 <br>
-<div align="center">
-<h3 style="width:600px">
+
+<h3 align="center">
 &emsp;&emsp;With my energy, enthusiasm, and drive, I am confident that I will make a valuable addition to any team. I am ready to roll up my sleeves and get to work on exciting projects that push the boundaries of what is possible in web development. Let's make something amazing together!</h3>
-</div>
+
 
 <br><br>
 <br><br>
@@ -45,13 +44,13 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jk377y&repo=happy-horizons&theme=transparent)](https://github.com/jk377y/happy-horizons)
 <h3 align="center">Using these technologies:</h3>
-<p align=center>
+<div align=center style="font-size: 50px;">
 <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" title="MongoDB" width="64" height="64"/>
 <img width="64" height="64" src="https://img.icons8.com/officel/80/000000/handlebar-mustache.png" alt="handlebar-mustache"/>
 <img src="https://skillicons.dev/icons?i=express" alt="express" title="ExpressJS" width="64" height="64"/>
 <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" title="NodeJS" width="64" height="64"/>
 <img src="https://www.emailjs.com/favicon/android-chrome-192x192.png" alt="emailjs" title="EmailJS" width="64" height="64"/>
-</p>
+</div>
 <br>
 <br>
 <br>
@@ -61,7 +60,7 @@
 </h3>
 <br>
 <h1 align="center">My Skills, Languages and Tools:</h1>
-<p align="center">
+<div align="center" style="font-size: 50px;">
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=vite" alt="vite" title="Vite" width="64" height="64"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
@@ -80,9 +79,9 @@
 <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" title="MySQL" width="64" height="64"/> </a> 
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" title="Bootstrap" width="64" height="64"/> </a> 
-</p>
+</div>
 
-<p align=center>
+<div align=center style="font-size: 50px;">
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=css" alt="css3" title="CSS3" width="64" height="64"/> </a>  
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -103,7 +102,7 @@
 <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" title="VSCode" width="64" height="64"/> </a>
 <a href="https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=git" alt="Git Version Control" title="Git Version Control" width="64" height="64"/> </a>
-</p>
+</div>
 
 <br>
 <br>
