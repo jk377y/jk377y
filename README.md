@@ -83,6 +83,8 @@
 <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" title="Javascript" width="64" height="64"/> </a> 
 <a href="https://jwt.io/" target="_blank" rel="noreferrer"> 
 <img src="https://img.icons8.com/color/64/null/java-web-token.png" alt="JWT" title="JSON Web Token" width="64" height="64"/> </a> 
+<a href="https://handlebarsjs.com/" target="_blank" rel="noreferrer"> 
+<img src="https://img.icons8.com/officel/80/000000/handlebar-mustache.png" alt="handlebars" title="Handlebars" width="64" height="64"/> </a> 
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" title="GraphQL" width="64" height="64"/> </a>
 <a href="https://www.apollographql.com/" target="_blank" rel="noreferrer"> 
