@@ -4,7 +4,7 @@
 
 <!-- <p align="center"><em>I didn't come this far just to come this far.</em></p> -->
 
-<div align="center" width="600px">
+<div align="center" width=600>
 <h3>
 &emsp;&emsp;Hello World! My name is James Kelly and I am a Full Stack Web Developer who is ready to take the industry by storm! I am thrilled to be a part of this exciting field and I am always on the lookout for new opportunities to showcase my skills.
 </h3>
