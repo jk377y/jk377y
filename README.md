@@ -20,7 +20,7 @@
 </div>
 <br><br>
 
-<h2 align="center">Check out my portfolio <a href="https://jk377y.github.io/Personal-portfolio/" target="_blank">here</a></h2><br>
+<h2 align="center">Check out my portfolio <a href="https://jk377y.dev" target="_blank">here</a></h2><br>
 
 <br>
 
@@ -41,8 +41,8 @@ I’m currently learning **MongoDB, Express, React, Node.js**
 </h3>
 <br>
 <h1 align="center">Languages and Tools:</h1>
-<p align="center" style="background:rgba(255, 255, 255, 0.5);padding:10px;width:800px;"> 
 
+<p align="center">
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=vite" alt="vite" title="Vite" width="64" height="64"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
@@ -58,9 +58,11 @@ I’m currently learning **MongoDB, Express, React, Node.js**
 <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" title="Heroku" width="64" height="64"/> </a> 
 <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" title="MySQL" width="64" height="64"/> </a> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" title="Bootstrap" width="64" height="64"/> </a> 
+</p>
 
 <br> 
 
+<p align=center>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=css" alt="css3" title="CSS3" width="64" height="64"/> </a>  
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -78,7 +80,9 @@ I’m currently learning **MongoDB, Express, React, Node.js**
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" title="VSCode" width="64" height="64"/> </a>
 <a href="https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control" target="_blank" rel="noreferrer"> 
-<img src="https://skillicons.dev/icons?i=git" alt="Git Version Control" title="Git Version Control" width="64" height="64"/> </a></p>
+<img src="https://skillicons.dev/icons?i=git" alt="Git Version Control" title="Git Version Control" width="64" height="64"/> </a>
+</p>
+
 <br>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jk377y&show_icons=true&locale=en&layout=compact" alt="jk377y" /></p>
