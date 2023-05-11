@@ -2,8 +2,6 @@
 
 <h3 align="center"><span style="font-size:24px"><em>~ I didn't come this far just to come this far. ~ </em></span></h3>
 
-
-
 <!-- <p align="center"><em>I didn't come this far just to come this far.</em></p> -->
 
 <h3 align="justified">
@@ -12,8 +10,8 @@
 <h3>
 &emsp;&emsp;With my energy, enthusiasm, and drive, I am confident that I will make a valuable addition to any team. I am ready to roll up my sleeves and get to work on exciting projects that push the boundaries of what is possible in web development. Let's make something amazing together!</h3>
 
-
 <br><br>
+
 <div align="center">
 
 <img width="150" src="https://komarev.com/ghpvc/?username=jk377y&color=brightgreen&style=plastic">
@@ -38,6 +36,7 @@ I’m currently working on a **Restaurant Point of Sale App**
 <br>
 <br>
 I’m currently learning **MongoDB, Express, React, Node.js**
+
 </h3>
 <br>
 <h1 align="center">Languages and Tools:</h1>
@@ -61,7 +60,7 @@ I’m currently learning **MongoDB, Express, React, Node.js**
 <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" title="Bootstrap" width="64" height="64"/> </a> 
 </p>
 
-<br> 
+<br>
 
 <p align=center>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -86,8 +85,8 @@ I’m currently learning **MongoDB, Express, React, Node.js**
 
 <br>
 
-<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jk377y&show_icons=true&locale=en&layout=compact" alt="jk377y" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jk377y&show_icons=true&locale=en&layout=compact" alt="jk377y" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jk377y&show_icons=true&locale=en" alt="jk377y" /></p> -->
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jk377y&show_icons=true&locale=en" alt="jk377y" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jk377y&" alt="jk377y" /></p>
