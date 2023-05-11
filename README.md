@@ -11,6 +11,7 @@
 &emsp;&emsp;With my energy, enthusiasm, and drive, I am confident that I will make a valuable addition to any team. I am ready to roll up my sleeves and get to work on exciting projects that push the boundaries of what is possible in web development. Let's make something amazing together!</h3>
 
 <br><br>
+<br><br>
 
 <div align="center">
 
@@ -30,12 +31,15 @@
 
 </div>
 <br>
+<br>
+<br>
+<br>
 <h3 align="center">
 
 **Most Recent Project**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jk377y&repo=happy-horizons&theme=transparent)](https://github.com/jk377y/happy-horizons)
-
+<h3 align="center">Using these technologies:</h3>
 <p align=center>
 <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" title="MongoDB" width="64" height="64"/>
 <img width="64" height="64" src="https://img.icons8.com/officel/80/000000/handlebar-mustache.png" alt="handlebar-mustache"/>
@@ -44,13 +48,14 @@
 <img src="https://www.emailjs.com/favicon/android-chrome-192x192.png" alt="emailjs" title="EmailJS" width="64" height="64"/>
 </p>
 <br>
+<br>
+<br>
 
 
 
 </h3>
 <br>
 <h1 align="center">My Skills, Languages and Tools:</h1>
-
 <p align="center">
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=vite" alt="vite" title="Vite" width="64" height="64"/> </a> 
@@ -71,8 +76,6 @@
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" title="Bootstrap" width="64" height="64"/> </a> 
 </p>
-
-<br>
 
 <p align=center>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -97,6 +100,9 @@
 <img src="https://skillicons.dev/icons?i=git" alt="Git Version Control" title="Git Version Control" width="64" height="64"/> </a>
 </p>
 
+<br>
+<br>
+<br>
 <br>
 
 <p align=center>
