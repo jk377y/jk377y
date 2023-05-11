@@ -54,9 +54,10 @@ I’m currently learning **MongoDB, Express, React, Node.js**
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" title="Tailwind CSS" width="64" height="64"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://skillicons.dev/icons?i=mysql" alt="mysql" title="MySQL" width="64" height="64"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
-<img src="https://skillicons.dev/icons?i=heroku" alt="heroku" title="Heroku" width="64" height="64"/> </a> 
-<img src="https://skillicons.dev/icons?i=mysql" alt="mysql" title="MySQL" width="64" height="64"/> </a> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
+<img src="https://skillicons.dev/icons?i=mysql" alt="mysql" title="MySQL" width="64" height="64"/> </a> 
+<a href="https://heroku.com" target="_blank" rel="noreferrer"> 
+<img src="https://skillicons.dev/icons?i=heroku" alt="heroku" title="Heroku" width="64" height="64"/> </a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" title="Bootstrap" width="64" height="64"/> </a> 
 </p>
 
