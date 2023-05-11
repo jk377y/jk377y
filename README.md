@@ -85,8 +85,8 @@ I’m currently learning **MongoDB, Express, React, Node.js**
 
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jk377y&show_icons=true&locale=en&layout=compact" alt="jk377y" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jk377y&show_icons=true&locale=en&layout=compact" alt="jk377y" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jk377y&show_icons=true&locale=en" alt="jk377y" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jk377y&show_icons=true&locale=en" alt="jk377y" /></p> -->
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jk377y&" alt="jk377y" /></p>
