@@ -32,14 +32,24 @@
 <br>
 <h3 align="center">
 
-I’m currently working on a **Restaurant Point of Sale App**
+**Most Recent Project**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jk377y&repo=demoV2)](https://github.com/jk377y/demoV2)
+
+<p align=center>
+<img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" title="MongoDB" width="64" height="64"/>
+<img width="64" height="64" src="https://img.icons8.com/officel/80/000000/handlebar-mustache.png" alt="handlebar-mustache"/>
+<img src="https://skillicons.dev/icons?i=express" alt="express" title="ExpressJS" width="64" height="64"/>
+<img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" title="NodeJS" width="64" height="64"/>
+<img src="https://www.emailjs.com/favicon/android-chrome-192x192.png" alt="emailjs" title="EmailJS" width="64" height="64"/>
+</p>
 <br>
-<br>
-I’m currently learning **MongoDB, Express, React, Node.js**
+
+
 
 </h3>
 <br>
-<h1 align="center">Languages and Tools:</h1>
+<h1 align="center">My Skills, Languages and Tools:</h1>
 
 <p align="center">
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
@@ -50,6 +60,8 @@ I’m currently learning **MongoDB, Express, React, Node.js**
 <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" title="MongoDB" width="64" height="64"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" title="NodeJS" width="64" height="64"/> </a> 
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+<img src="https://skillicons.dev/icons?i=express" alt="express" title="ExpressJS" width="64" height="64"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" title="Tailwind CSS" width="64" height="64"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
