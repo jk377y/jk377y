@@ -63,7 +63,9 @@
 <br>
 <h1 align="center">My Skills, Languages and Tools:</h1>
 <div align="center">
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+<img src="https://skillicons.dev/icons?i=python" alt="python" title="Python" width="64" height="64"/> </a> 
+&nbsp;<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=vite" alt="vite" title="Vite" width="64" height="64"/> </a> 
 &nbsp;<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=react" alt="react" title="React" width="64" height="64"/> </a> 
