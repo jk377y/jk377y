@@ -22,7 +22,7 @@
 </div>
 <br><br>
 
-<h2 align="center">Check out my portfolio <a href="https://jk377y.dev" target="_blank">here</a></h2><br>
+<h2 align="center"><a href="https://jk377y.dev" target="_blank">jk377y.dev</a></h2><br>
 
 <br>
 
