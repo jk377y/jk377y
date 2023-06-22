@@ -39,7 +39,7 @@
 <br>
 <h3 align="center">
 
-**Most Recent Project**
+<!-- **Most Recent Project**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jk377y&repo=happy-horizons&theme=transparent)](https://github.com/jk377y/happy-horizons)
 
@@ -57,7 +57,7 @@
 </div>
 <br>
 <br>
-<br>
+<br> -->
 
 </h3>
 <br>
