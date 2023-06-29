@@ -2,7 +2,7 @@
 
 <h2 align="center"><a href="https://jk377y.dev" target="_blank">jk377y.dev</a></h2>
 
-<h3 align="center"><span style="font-size:24px"><em>~ I didn't come this far just to come this far. ~ </em></span></h3><br>
+<h3 align="center"><span style="font-size:24px"><em>~ I didn't come this far just to come this far. ~ </em></span></h3>
 
 <h3 align="center">
 &emsp;&emsp;Hello World! My name is James Kelly and I am a Full Stack Web Developer who is ready to take the industry by storm! I am thrilled to be a part of this exciting field and I am always on the lookout for new opportunities to showcase my skills.
