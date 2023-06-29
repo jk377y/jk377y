@@ -1,5 +1,5 @@
 <img src="./bioPic.JPG" alt="bio image" width="100%">
-<br><br>
+<br>
 
 <h3 align="center"><span style="font-size:24px"><em>~ I didn't come this far just to come this far. ~ </em></span></h3>
 
