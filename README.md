@@ -1,5 +1,6 @@
 <img src="./bioPic.JPG" alt="bio image" width="100%">
 <br>
+<h2 align="center"><a href="https://jk377y.dev" target="_blank">jk377y.dev</a></h2><br>
 
 <h3 align="center"><span style="font-size:24px"><em>~ I didn't come this far just to come this far. ~ </em></span></h3>
 
@@ -22,10 +23,6 @@
 <img width="150" src="https://komarev.com/ghpvc/?username=jk377y&color=brightgreen&style=plastic">
 </div>
 <br><br>
-
-<h2 align="center"><a href="https://jk377y.dev" target="_blank">jk377y.dev</a></h2><br>
-
-<br>
 
 <h2 align="center">Connect with me:</h2><br>
 
