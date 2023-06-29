@@ -1,17 +1,12 @@
 <img src="./bioPic.JPG" alt="bio image" width="100%">
-<br>
-<h2 align="center"><a href="https://jk377y.dev" target="_blank">jk377y.dev</a></h2><br>
 
-<h3 align="center"><span style="font-size:24px"><em>~ I didn't come this far just to come this far. ~ </em></span></h3>
+<h2 align="center"><a href="https://jk377y.dev" target="_blank">jk377y.dev</a></h2>
 
-<!-- <p align="center"><em>I didn't come this far just to come this far.</em></p> -->
+<h3 align="center"><span style="font-size:24px"><em>~ I didn't come this far just to come this far. ~ </em></span></h3><br>
 
 <h3 align="center">
 &emsp;&emsp;Hello World! My name is James Kelly and I am a Full Stack Web Developer who is ready to take the industry by storm! I am thrilled to be a part of this exciting field and I am always on the lookout for new opportunities to showcase my skills.
-</h3>
-
-<br>
-
+</h3><br>
 <h3 align="center">
 &emsp;&emsp;With my energy, enthusiasm, and drive, I am confident that I will make a valuable addition to any team. I am ready to roll up my sleeves and get to work on exciting projects that push the boundaries of what is possible in web development. Let's make something amazing together!</h3>
 
@@ -31,8 +26,6 @@
 <a href="https://www.linkedin.com/in/james-kelly-b93a94150/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="james kelly" title="My LinkedIn Profile" height="48" width="48" /></a>&emsp;&emsp;<a href="mailto:jk377y@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/fluency/64/null/apple-mail.png" alt="jk377y" title="Email Me" height="64" width="64" /></a>&emsp;&emsp;<a href="https://www.leetcode.com/jk377y" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jk377y" title="My LeetCode Profile" height="48" width="48" /></a>
 
 </div>
-<br>
-<br>
 <br>
 <br>
 <h3 align="center">
