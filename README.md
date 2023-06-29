@@ -1,4 +1,5 @@
-<h1 align="center" style="font-size: 48px;">James Kelly</h1>
+<img src="./bioPic.JPG" alt="bio image" width="100%">
+<br><br>
 
 <h3 align="center"><span style="font-size:24px"><em>~ I didn't come this far just to come this far. ~ </em></span></h3>
 
@@ -13,7 +14,7 @@
 <h3 align="center">
 &emsp;&emsp;With my energy, enthusiasm, and drive, I am confident that I will make a valuable addition to any team. I am ready to roll up my sleeves and get to work on exciting projects that push the boundaries of what is possible in web development. Let's make something amazing together!</h3>
 
-<br><br>
+
 <br><br>
 
 <div align="center">
