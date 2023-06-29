@@ -20,7 +20,7 @@
 </div>
 <br><br>
 
-<h2 align="center">Connect with me:</h2><br>
+<h2 align="center">Connect with me:</h2>
 
 <div align="center" style="font-size: 24px;">
 
