@@ -24,7 +24,7 @@
 
 <div align="center" style="font-size: 24px;">
 
-<a href="https://www.linkedin.com/in/james-kelly-full-stack-developer/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="james kelly" title="My LinkedIn Profile" height="48" width="48" /></a>&emsp;&emsp;<a href="mailto:jk377y@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/fluency/64/null/apple-mail.png" alt="jk377y" title="Email Me" height="64" width="64" /></a>&emsp;&emsp;<a href="https://www.leetcode.com/jk377y" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jk377y" title="My LeetCode Profile" height="48" width="48" /></a>
+<a href="https://www.linkedin.com/in/james-kelly-software-developer/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="james kelly" title="My LinkedIn Profile" height="48" width="48" /></a>&emsp;&emsp;<a href="mailto:jk377y@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/fluency/64/null/apple-mail.png" alt="jk377y" title="Email Me" height="64" width="64" /></a>&emsp;&emsp;<a href="https://www.leetcode.com/jk377y" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jk377y" title="My LeetCode Profile" height="48" width="48" /></a>
 
 </div>
 <br>
