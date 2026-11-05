@@ -74,13 +74,13 @@ GitHub Actions workflows automated frontend and backend deployments.
 
 ---
 
-### [PC Health Dashboard](https://github.com/jk377y/PC-Health-Dashboard)
+### [ec2-monitoring-tool](https://github.com/jk377y/ec2-monitoring-tool)
 
-Cross-platform local system-monitoring dashboard built with **Node.js, Express, and JavaScript**.
+A lightweight health dashboard for an **Amazon EC2 Linux** instance, deployed with a single command.
 
-Displays live CPU, memory, disk, and uptime information through a lightweight browser interface while keeping the application bound to localhost.
+The main goal of this project is automation. Getting a tool like this onto a server normally means creating directories on the instance, copying files up one at a time, installing or checking dependencies, and starting each piece by hand. This project wraps all of that into one command, so nobody has to configure folders or upload files to the EC2 instance manually. You run bash `start.sh`, answer three prompts, and the launcher does the rest.
 
-**Focus:** Node.js • Linux/Windows/macOS • System Monitoring • REST API
+**Focus:** Bash • Linux/Windows/macOS • EC2 System Health Monitoring • Dashboard Display
 
 ---
 
