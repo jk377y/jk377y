@@ -98,10 +98,12 @@ Includes persistent user settings, window-state management, configurable time zo
 
 - **[AWS Certified Cloud Practitioner](https://drive.google.com/file/d/1-InhBvrnwbNuklqRq5PpDNxY8zUF9VMg/view?usp=drive_link)** — Amazon Web Services
 - **[ITIL 4 Foundation](https://drive.google.com/file/d/1XDLg4Wzx4NPbBiLVRfC8zJtsUTqD2OYY/view?usp=drive_link)** — PeopleCert
-- **[Google IT Support Professional Certificate](https://drive.google.com/file/d/1kxUZWWzTeo8bNF0CQVIvxTJ_XTxD_3VE/view?usp=drive_link)** — Coursera
+- **[Google IT Support Professional Certificate](https://drive.google.com/file/d/1kxUZWWzTeo8bNF0CQVIvxTJ_XTxD_3VE/view?usp=drive_link)** — Google
 - **[Full Stack Web Development Certificate](https://drive.google.com/file/d/1T_nMmu6hVak21Ae0v0gJOS012-hFORng/view?usp=drive_link)** — University of Texas at Austin
 - **[WGU Back-End Developer Certificate](https://drive.google.com/file/d/1p_YexhMkyoh3C5F_xVRC3-fIeXoz4hN_/view?usp=drive_link)** — Western Governors University
 - **[WGU Front-End Developer Certificate](https://drive.google.com/file/d/1ZUx2duZribmJAI4EAM3yTYIyBJJJhkBb/view?usp=drive_link)** — Western Governors University
+
+- <a href="https://drive.google.com/file/d/1-InhBvrnwbNuklqRq5PpDNxY8zUF9VMg/view?usp=drive_link" target="_blank"><strong>AWS Certified Cloud Practitioner</strong></a> — Amazon Web Services
 
 ---
 
